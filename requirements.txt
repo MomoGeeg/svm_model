@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+scikit-learn
+best_svm
+joblib
