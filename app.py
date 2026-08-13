@@ -14,8 +14,8 @@ st.set_page_config(
   layout="wide"
 )
 DESCRIPTION = (
-  "Ce modèle de machine learning permet de prédir le type de véhicule (Venant ou Occasion) en fonction de :"
-  "du marque, du prix, de l'année, le quartier, la transmission"
+  "Ce modèle de machine learning permet de prédir le type de véhicule (Venant ou Occasion) en fonction : "
+  "de la marque, du prix, de l'année, le quartier et de la transmission"
 )
 
 # Chargement des artéfacts
